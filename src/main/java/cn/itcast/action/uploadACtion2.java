@@ -82,6 +82,7 @@ public class uploadACtion2 extends ActionSupport{
 			if(ind%100==1){
 				connection = datasource.getConnection();
 				connection.setAutoCommit(false);
+				
 			}
 			if(row.getCell(1)==null||StringUtils.isBlank(row.getCell(1).getStringCellValue())){
 				continue;
