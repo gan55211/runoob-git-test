@@ -1,0 +1,4 @@
+cn\itcast\dao\uploadDao.class
+cn\itcast\domain\quyu.class
+cn\itcast\action\uploadACtion.class
+cn\itcast\service\uploadServcie.class
