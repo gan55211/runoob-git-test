@@ -38,7 +38,7 @@ public class uploadACtion extends ActionSupport{
 	private uploadServcie servcie;
 	@Autowired
 	private ComboPooledDataSource datasource;
-	
+	public String a="aaa";
 	private File excel;
 
 	public File getExcel() {
