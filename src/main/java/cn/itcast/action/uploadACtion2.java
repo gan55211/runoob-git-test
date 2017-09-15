@@ -92,7 +92,7 @@ public class uploadACtion2 extends ActionSupport{
 			statement.setInt(2,ind);
 			statement.execute();
 			if(ind%100==0){
-				System.out.println("aaabbbb");
+				System.out.println("aaabbbbdhfhgjkhkjlljl");
 				connection.commit();
 				connection.close();
 				//aaaaaaaa
