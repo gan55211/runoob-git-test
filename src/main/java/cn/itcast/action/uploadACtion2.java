@@ -94,7 +94,7 @@ public class uploadACtion2 extends ActionSupport{
 			if(ind%100==0){
 				connection.commit();
 				connection.close();
-				aaa
+				//aaa
 			}
 		}
 		}
